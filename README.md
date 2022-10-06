@@ -8,3 +8,5 @@ The runtime of each sorting algorithm is displayed in seconds to three decimal p
 
 
 After using this program, it should be apparent to the user that merge sort is a more efficient algorithm than bubble sort because it is able to sort integer arrays faster for arrays of large length.
+
+Another difference between the two sorting algorithms is that bubble sort sorts an array of integers in place while merge sort returns a new array of sorted integers.
